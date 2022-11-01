@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Irfan
 - 👀 I’m interested in learning new things in webdevlopment.
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently working React.js
 - 💞️ I’m looking to collaborate on sharing knowlwdge related coding.
 - 📫 How to reach me: Irfanellahe@gmail.com
 
